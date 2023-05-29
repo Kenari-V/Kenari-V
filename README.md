@@ -4,7 +4,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Kenari-V&color=ff69b4"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenari-V&layout=compact&theme=chartreuse-dark"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kenari-V&show_icons=true&theme=radical"></p>
 
 ### &nbsp;Language Or Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
